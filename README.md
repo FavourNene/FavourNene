@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @FavourNene
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning JavaScript 
+- 👀 I’m interested in Machine learning, AI and robotics 
+- 🌱 I was  learning JavaScript
+- But I'm currently learning Arduino and Python.
 - 💞️ I’m looking to collaborate on fun projects in the near future 
 - 📫 How to reach me :
 
