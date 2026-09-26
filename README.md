@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FavourNene
-- 👀 I’m interested in Machine learning, AI and robotics 
+- I'm a Mechatronics Engineer who builds automation, robotics, AI and engineering systems.
 - 🌱 Dabbled in JavaScript
 - I'm currently learning Python.
 - 💞️ I’m looking to collaborate on fun projects in the near future 
